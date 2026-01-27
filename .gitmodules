@@ -1,0 +1,6 @@
+[submodule "data/jetson-containers-startscripts"]
+	path = data/jetson-containers-startscripts
+	url = https://github.com/akit37/jetson-containers-startscripts
+[submodule "data/ros2_ws"]
+	path = data/ros2_ws
+	url = https://github.com/akit37/ros2_ws
